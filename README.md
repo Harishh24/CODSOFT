@@ -32,7 +32,7 @@ An easy-to-use tool to calculate grades and practice basic Java concepts like lo
 
 
 
-### Task-3 :ATM Simulation Program
+### Task-3: ATM INTERFACE
 **Overview**  
 A simple Java program that simulates basic ATM operations like checking balance, depositing, and withdrawing money.
 **Key Features**  
